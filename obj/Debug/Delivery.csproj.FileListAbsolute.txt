@@ -1,0 +1,66 @@
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\roslyn\csc.exe
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\roslyn\vbc.exe
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\Delivery.dll.config
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\Delivery.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\Delivery.pdb
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\obj\Debug\Delivery.dll
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\obj\Debug\Delivery.pdb
+C:\Users\Mega Soft\Desktop\projects\مشروع الشروق\E-Delivery\E-Delivery\obj\Debug\Delivery.csprojResolveAssemblyReference.cache
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\roslyn\csc.exe
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\roslyn\vbc.exe
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\Delivery.dll.config
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\Delivery.dll
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\Delivery.pdb
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\obj\Debug\Delivery.csprojResolveAssemblyReference.cache
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\obj\Debug\Delivery.dll
+C:\Users\Mega Soft\Desktop\projects\12-لمى وغنى\E-Delivery\E-Delivery\obj\Debug\Delivery.pdb
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\roslyn\csc.exe
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\roslyn\System.Collections.Immutable.dll
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\roslyn\System.Reflection.Metadata.dll
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\roslyn\vbc.exe
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\roslyn\VBCSCompiler.exe
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\roslyn\VBCSCompiler.exe.config
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\Delivery.dll
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\Delivery.pdb
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\mscorlib.dll
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\ar\mscorlib.resources.dll
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\normidna.nlp
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\normnfc.nlp
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\normnfd.nlp
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\normnfkc.nlp
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\bin\normnfkd.nlp
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\obj\Debug\Delivery.csprojResolveAssemblyReference.cache
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\obj\Debug\Delivery.dll
+D:\My Files\BAIT-ISDN\IPI405\FinalDelivery\E-Delivery\E-Delivery\obj\Debug\Delivery.pdb
